@@ -35,3 +35,16 @@
   font-size: 20px;
   color: white;
 }
+
+.portfolio-work {
+  background-image: url(https://picsum.photos/500/500);
+  padding-top: calc(4.5 / 4 * 100%);
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 768px) {
+  .portfolio-work {
+    padding-top: calc(2 / 3.5 * 100%);
+  }
+}
