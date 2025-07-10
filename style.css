@@ -48,3 +48,8 @@
     padding-top: calc(2 / 3.5 * 100%);
   }
 }
+
+footer .altcademy a {
+  color: black;
+  text-decoration: none;
+}
